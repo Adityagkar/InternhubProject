@@ -1,0 +1,9 @@
+INSERT INTO 'categories' ('id', 'name') VALUES
+(1, 'Accounting & Banking'),
+(2, 'Construction'),
+(3, 'Fashion & Style'),
+(4, 'Food & Restaurant'),
+(5, 'Healthcare'),
+(6, 'Retail & Sales'),
+(7, 'Technology');
+
